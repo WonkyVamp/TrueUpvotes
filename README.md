@@ -123,3 +123,11 @@ In order to avoid a poorly organized `rc.lua` spanning thousands of lines, it ha
 #![](/screenshots/ss2.png)
 #![](/screenshots/ss4.png)
 #![](/screenshots/ss5.png) 
+┈┏━╮╭━┓┈╭━━━━╮\
+┈┃┏┗┛┓┃╭┫ⓞⓘⓝⓚ┃\
+┈╰┓▋▋┏╯╯╰━━━━╯\
+╭━┻╮╲┗━━━━╮╭╮┈\
+┃▎▎┃╲╲╲╲╲╲┣━╯┈\
+╰━┳┻▅╯╲╲╲╲┃┈┈┈\
+┈┈╰━┳┓┏┳┓┏╯┈┈┈\
+┈┈┈┈┗┻┛┗┻┛┈┈┈┈\
